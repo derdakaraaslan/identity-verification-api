@@ -1,0 +1,4 @@
+django==3.2
+django-ninja
+qrcode==7.3.1
+Pillow==9.2.0
